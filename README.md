@@ -8,26 +8,26 @@ A curated set of small, self-contained web demos built with HTML, CSS and JavaSc
 ## Projects Overview
 
 - **Analog Clock** — [Open demo](Analog Clock/index.html)  
-  Classic analog clock built with CSS transforms and JS time updates.  
-  ![Analog Clock Screenshot](Assets/screenshots/analog_clock.svg)
+  Classic analog clock built with CSS transforms and JS time updates.
+   
 - **Analog Clock 2** — [Open demo](Analog Clock 2/index.html)  
   Alternate styling and smoother animations.  
-  ![Analog Clock 2 Screenshot](Assets/screenshots/analog_clock_2.svg)
+  
 - **Calculator** — [Open demo](Calculator/index.html)  
   Basic calculator (addition, subtraction, multiplication, division) implemented in vanilla JS.  
-  ![Calculator Screenshot](Assets/screenshots/calculator.svg)
+
 - **Digital Clock** — [Open demo](Digital Clock/index.html)  
   Live digital clock with AM/PM toggle and styling.  
-  ![Digital Clock Screenshot](Assets/screenshots/digital_clock.svg)
+  
 - **Rock Paper Scissors** — [Open demo](Rock Paper Scissors/index.html)  
   Interactive game with score tracking and simple UI.  
-  ![RPS Screenshot](Assets/screenshots/rps.svg)
+
 - **Text To Voice** — [Open demo](Text To Voice/index.html)  
   Text-to-speech example using the Web Speech API (speech synthesis).  
-  ![Text To Voice Screenshot](Assets/screenshots/text_to_voice.svg)
+  
 - **To Do List** — [Open demo](To Do List/index.html)  
   Minimal todo app with add/remove and local UI; see `Assets/` for supporting images.  
-  ![To Do List Screenshot](Assets/screenshots/todo.svg)
+
 
 ## Quick Preview
 
