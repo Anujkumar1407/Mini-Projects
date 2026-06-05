@@ -53,8 +53,3 @@ Improvements, visual polish, and small feature additions are welcome. Suggested 
 This collection is provided without an explicit license. Add a `LICENSE` file if you want to choose one (MIT, Apache, etc.).
 
 ---
-
-If you'd like, I can also:
-
-- Add screenshots for each project (I can generate and place them in `Assets/`), or
-- Create a git commit and push this README to a remote GitHub repository.
